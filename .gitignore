@@ -1,0 +1,7 @@
+*.sav
+*.tmp
+config.json
+PBZ-Save-Notes.json
+PBZ-Backups/
+Imported-Backups/
+pbz-recovery-backup-*/
